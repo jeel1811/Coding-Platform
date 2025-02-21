@@ -52,7 +52,7 @@ Swissmote is an advanced, interactive platform designed to help developers impro
 ### Backend Setup
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/swissmote.git
+   git clone https://github.com/jeel1811/Coding-Platform.git
    cd swissmote
    ```
 
@@ -93,9 +93,9 @@ python manage.py test
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
-Your Name - your.email@example.com
+Jeel Hirani - hiranijeel2004@gmail.com
 
-Project Link: [https://github.com/yourusername/swissmote](https://github.com/yourusername/swissmote)
+Project Link: https://github.com/jeel1811/Coding-Platform/
 
 ---
 
